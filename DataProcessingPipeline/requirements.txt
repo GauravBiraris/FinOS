@@ -1,0 +1,13 @@
+#Update the library versions while testing
+
+fastapi 
+uvicorn 
+pandas 
+numpy 
+scikit-learn 
+python-multipart 
+PyPDF2 
+openpyxl 
+sqlalchemy 
+psycopg2-binary 
+redis
