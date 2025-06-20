@@ -1,0 +1,16 @@
+#Versioning needed
+
+scikit-learn 
+tensorflow 
+pandas 
+numpy 
+fastapi 
+uvicorn 
+redis 
+sqlalchemy 
+psycopg2-binary 
+python-multipart 
+opencv-python 
+pytesseract 
+spacy
+
